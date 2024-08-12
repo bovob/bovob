@@ -24,16 +24,3 @@ Here are some ideas to get you started:
   <h3 align="center">📌✨productive-box</h3>
 </p>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
-   <img src="https://img.shields.io/github/license/bovob/productive-box"/>
-   <img src="https://img.shields.io/github/stars/bovob/productive-box"/>
-   <img src="https://img.shields.io/github/forks/bovob/productive-box"/>
-</p>
-<p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   Let's check out in gist!
-</p>
