@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bovob&show_icons=true&theme=radical)
 
-<p align="center">
-  <a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
-</p>
-
