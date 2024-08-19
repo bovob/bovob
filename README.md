@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovob&layout=compact&theme=tokyonight" />
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ns01388)](https://solved.ac/ns01388/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bovob)](https://solved.ac/bovob/)
